@@ -1,5 +1,5 @@
 {
-  "name": "uicklv/geiinterface",
+  "name": "uicklv/geointerface",
   "description": "Interface Adapter",
   "autoload": {
     "psr-4": {
